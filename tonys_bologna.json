@@ -7,6 +7,7 @@
   ],
   "excuse": [
     "I'm hung over, I had too much #noun# last night",
+    "I woke up on the floor",
     "I got distracted by #noun#",
     "I got distracted by #verb#",
     "I forgot about #noun#",
@@ -19,17 +20,22 @@
     "I'll be #verb# for a month",
     "I was #verb#",
     "My legs are jelly from #noun#",
-    "I got day drunk while #verb# ~___~"
+    "I got day drunk while #verb# ~___~",
+    "There is a time sensitive #noun#"
   ],
   "noun": [
     "Super Smash Brothers",
+    "cat",
     "cats",
     "pizza",
-    "Overwatch 2"
+    "the wolves",
+    "Overwatch 2",
+    "spaghetti"
   ],
   "verb": [
     "LARPing",
     "playing #noun#",
+    "working on #noun#",
     "eating #noun#"
   ]
 }

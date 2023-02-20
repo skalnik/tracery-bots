@@ -45,7 +45,10 @@
     "",
     "Gelatinous ",
     "#descriptor##descriptor#",
-    "#descriptor##descriptor##descriptor#"
+    "#descriptor##descriptor##descriptor#",
+    "8 piece ",
+    "12 piece ",
+    "Famous "
   ],
   "name": [
     "Burger",
@@ -66,9 +69,17 @@
     "Quesorito",
     "Roll-up",
     "Taco #modifier#",
-    "Taco"
+    "Taco",
+    "Tenders",
+    "Tenders #modifier#",
+    "Bucket",
+    "Pot Pie",
+    "Wrap",
+    "Bowl"
   ],
   "modifier": [
+    "Bucket",
+    "Bowl",
     "BellGrande",
     "Deluxe",
     "Supreme"

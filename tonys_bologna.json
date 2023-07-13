@@ -23,7 +23,9 @@
     "I'm hung over, I had too much #noun# last night",
     "My bike is broken :0",
     "My legs are jelly from #noun#",
-    "There is a time sensitive #noun#"
+    "There is a time sensitive #noun#",
+    "I found a flower in #noun#",
+    "#verb# until #noun# baffled me"
   ],
   "noun": [
     "Ingram & Pam",
@@ -33,12 +35,14 @@
     "cat",
     "cats",
     "pizza",
-    "spaghetti"
+    "spaghetti",
+    "ShadyPkg"
   ],
   "verb": [
     "LARPing",
     "eating #noun#",
     "playing #noun#",
-    "working on #noun#"
+    "working on #noun#",
+    "dreamjournaling about #noun#"
   ]
 }

@@ -25,7 +25,11 @@
     "My legs are jelly from #noun#",
     "There is a time sensitive #noun#",
     "I found a flower in #noun#",
-    "#verb# until #noun# baffled me"
+    "#verb.capitalize# until #noun# baffled me",
+    "#noun.capitalize# is all I've had to eat today",
+    "I crushed too many #noun# into my rice",
+    "waiting for #noun# to move me",
+    ";_;"
   ],
   "noun": [
     "Ingram & Pam",
@@ -36,7 +40,9 @@
     "cats",
     "pizza",
     "spaghetti",
-    "ShadyPkg"
+    "ShadyPkg",
+    "rice",
+    "thai chili"
   ],
   "verb": [
     "LARPing",

@@ -4,7 +4,8 @@
     "#excuse# ~vamoose~",
     "No, I can't come out~ #excuse#",
     "Sorry! #excuse#",
-    "oh no #excuse#"
+    "oh no #excuse#",
+    "I can't play, #excuse#"
   ],
   "excuse": [
     "#noun.capitalize# came up",
@@ -29,7 +30,8 @@
     "#noun.capitalize# is all I've had to eat today",
     "I crushed too many #noun# into my rice",
     "waiting for #noun# to move me",
-    ";_;"
+    ";_;",
+    "counting my #noun#"
   ],
   "noun": [
     "Ingram & Pam",
@@ -42,7 +44,8 @@
     "spaghetti",
     "ShadyPkg",
     "rice",
-    "thai chili"
+    "thai chili",
+    "button haul"
   ],
   "verb": [
     "LARPing",

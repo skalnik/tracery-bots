@@ -2,5 +2,5 @@
 
 Just the JSON for various Tracery Bots I got goin
 
-- [@fauxo_bell@botsin.space](https://botsin.space/@fauxo_bell)
-- [@tonys_bologna@botsin.space](https://botsin.space/@tonys_bologna)
+- [Definitely Taco Bell](https://bsky.app/profile/did:plc:3lilvxf62njjeatcyavi7dwe)
+- [Tony's Baloney](https://bsky.app/profile/tonys-baloney.bsky.social)

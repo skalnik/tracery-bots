@@ -5,13 +5,16 @@
     "No, I can't come out~ #excuse#",
     "Sorry! #excuse#",
     "oh no #excuse#",
-    "I can't play, #excuse#"
+    "I can't play, #excuse#",
+    #excuse# happened, so I invented rules!"
   ],
   "excuse": [
+    "dipped my toe into #noun# and I think that's enough",
     "#noun.capitalize# came up",
     "I ate too much #noun# and then passed out",
     "I didn't get #noun#",
     "I fell asleep",
+    "My arm is sore from #verb# ;_;",
     "I forgot about #noun#",
     "I got day drunk while #verb# ~___~",
     "I got distracted by #noun#",
@@ -31,10 +34,15 @@
     "I crushed too many #noun# into my rice",
     "waiting for #noun# to move me",
     ";_;",
+    "I decided to be mean >_>",
     "counting my #noun#",
     "I have been banned from #noun#"
   ],
   "noun": [
+    "Muta_work",
+    "the planets",
+    "goon coccoon",
+    "the taco cart lady",
     "Ingram & Pam",
     "hcmc",
     "Super Smash Brothers",
@@ -53,6 +61,7 @@
     "eating #noun#",
     "playing #noun#",
     "working on #noun#",
+    "cranking hog",
     "dreamjournaling about #noun#"
   ]
 }

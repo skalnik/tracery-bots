@@ -52,7 +52,11 @@
     "12 piece ",
     "Famous ",
     "Cheez-it ",
-    "Cheesy Dipping "
+    "Cheesy Dipping ",
+    "Street ",
+    "Flamin' Hot ",
+    "Steak and Queso ",
+    "Quesocrisp "
   ],
   "name": [
     "Burger",
@@ -79,13 +83,16 @@
     "Bucket",
     "Pot Pie",
     "Wrap",
-    "Bowl"
+    "Bowl",
+    "Crunchwrap",
+    "Crunchwrap #modifier#"
   ],
   "modifier": [
     "Bucket",
     "Bowl",
     "BellGrande",
     "Deluxe",
-    "Supreme"
+    "Supreme",
+    "Sliders"
   ]
 }

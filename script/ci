@@ -1,0 +1,24 @@
+#!/usr/bin/env node
+
+const fs = require('node:fs')
+const { exit } = require('node:process')
+
+const files = ["fauxo_bell.json", "tonys_baloney.json"]
+
+files.forEach((name) => {
+  fs.readFile(name, 'utf8', (err, data) => {
+    if (err) {
+      console.error("❌ Couldn't read file!")
+      console.error(err);
+      exit(1)
+    }
+
+    try {
+      JSON.parse(data)
+    } catch (err) {
+      console.error("❌ Couldn't parse JSON!")
+      console.error(err)
+      exit(1)
+    }
+  })
+})

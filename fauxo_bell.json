@@ -56,7 +56,8 @@
     "Street ",
     "Flamin' Hot ",
     "Steak and Queso ",
-    "Quesocrisp "
+    "Quesocrisp ",
+    "Mountain Dew Baja Blast "
   ],
   "name": [
     "Burger",
@@ -85,7 +86,8 @@
     "Wrap",
     "Bowl",
     "Crunchwrap",
-    "Crunchwrap #modifier#"
+    "Crunchwrap #modifier#",
+    "Pie"
   ],
   "modifier": [
     "Bucket",

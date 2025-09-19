@@ -8,15 +8,16 @@ const files = ["fauxo_bell.json", "tonys_baloney.json"]
 files.forEach((name) => {
   fs.readFile(name, 'utf8', (err, data) => {
     if (err) {
-      console.error("❌ Couldn't read file!")
-      console.error(err);
+      console.error(`❌ Couldn't read file ${name}!`)
+      console.error(err)
       exit(1)
     }
 
     try {
       JSON.parse(data)
+      console.log(`✅ ${name} parsed without error!`)
     } catch (err) {
-      console.error("❌ Couldn't parse JSON!")
+      console.error(`❌ Couldn't parse JSON in ${name}!`)
       console.error(err)
       exit(1)
     }

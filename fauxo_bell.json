@@ -81,7 +81,7 @@
     "Fries",
     "Fries #modifier#",
     "Gordita Crunch",
-    "Gordita Crunch #modifier",
+    "Gordita Crunch #modifier#",
     "Gordita",
     "Gordita #modifier#",
     "Mexican Pizza",
@@ -111,7 +111,7 @@
     "Crunchwrap",
     "Crunchwrap #modifier#",
     "Pie",
-    "Pie #modifier",
+    "Pie #modifier#",
     "Strips",
     "Strips #modifier#",
     "Stacker",
@@ -120,7 +120,7 @@
     "Griller",
     "Griller #modifier#",
     "Crispanada",
-    "Crispanada #modifier"
+    "Crispanada #modifier#"
   ],
   "modifier": [
     "Bucket",
